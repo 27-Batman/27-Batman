@@ -5,9 +5,6 @@ Find me in the shadows on Discord: 27_batman
 
 <p align="center">
  <br>
- <img src="https://github-readme-stats.vercel.app/api?username=27-batman&count_private=true&show_icons=true&theme=monokai">
- <br>
- <br>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=27-batman&layout=compact&langs_count=10">
  <br>
  ( Note: Some languages might not appear due to private repositories )
