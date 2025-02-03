@@ -7,14 +7,14 @@ Find me in the shadows on Discord: **27_batman**
 
 <p align="center">
  <br>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=27-batman&layout=compact&langs_count=15&v=2">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=27-batman&layout=compact&langs_count=15&v=3">
  <br>
- ( Note: Some languages might not appear due to private repositories )
+ ( Note: Some languages might not appear due to private repositories or cache delays )
  <br>
 </p>
 
 <p align="center">
-   <img src="https://img.shields.io/badge/Vengeance-🦇-%23FF0000?style=flat-square&logo=batman&logoColor=yellow" alt="Vengeance Badge">
+   <img src="https://img.shields.io/badge/Vengeance-🦇-%23DDDDDD?style=flat-square&logo=batman&logoColor=yellow" alt="Vengeance Badge">
 </p>
 
 <p align="center">
