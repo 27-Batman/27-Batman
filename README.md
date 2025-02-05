@@ -7,7 +7,7 @@ Find me in the shadows on Discord: **27_batman**
 
 <p align="center">
  <br>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=27-batman&layout=compact&langs_count=15&v=3">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=27-batman&layout=compact&langs_count=15&cache_seconds=1800&v=3">
  <br>
  ( Note: Some languages might not appear due to private repositories or cache delays )
  <br>
