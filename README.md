@@ -2,7 +2,6 @@
 
 **💬 [Need to talk?]**<br>
 Find me in the shadows on Discord: **27_batman**
-
 ---
 
 <p align="center">
