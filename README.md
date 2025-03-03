@@ -17,11 +17,6 @@ Find me on Discord: 27_batman
 </p>
 
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=27-Batman&theme=graywhite&hide_border=true">
-   <br><br> 
-</p>
-
-<p align="center">
    <img src="https://media.giphy.com/media/Mige4cGk6l3Gg/giphy.gif">
    <br><br>
 </p>
