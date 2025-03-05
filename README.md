@@ -24,3 +24,8 @@ Find me on Discord: 27_batman
 <p align="center">
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=yellow&width=700&center=true&lines=I+AM+VENGEANCE.;I+AM+THE+NIGHT.;I+AM+BATMAN.">
 </p>
+
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@27Batman/30-nites-of-code)  
+  ![@27Batman #30NitesOfCode](https://www.codedex.io/api/petStatus?user=27Batman)
